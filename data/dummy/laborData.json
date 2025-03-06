@@ -1,0 +1,113 @@
+{
+    "summary": {
+      "sales": 8778.38,
+      "orders": 290,
+      "guests": 314,
+      "tips": 805.69,
+      "gratuity": 79.75,
+      "declaredTips": 51.5,
+      "totalPayPercentage": 16.78,
+      "salesPerEmployeeHour": 49.84
+    },
+    "employees": [
+      {
+        "name": "Benjamin Allin",
+        "id": 328,
+        "location": "Schertz/Cibolo/Selma/Garden Ridge",
+        "jobTitle": "Master Pizza Maker - Pizza Team/Dishes/Prep",
+        "regularHours": 4.85,
+        "overtimeHours": 0.0,
+        "hourlyRate": 10.0,
+        "regularPay": 48.5,
+        "overtimePay": 0.0,
+        "totalPay": 48.5,
+        "date": "2024-05-15",
+        "time": "14:30"
+      },
+      {
+        "name": "Benjamin Allin",
+        "id": 328,
+        "location": "Schertz/Cibolo/Selma/Garden Ridge",
+        "jobTitle": "Master Pizza Maker - Pizza Team/Dishes/Prep",
+        "regularHours": 4.85,
+        "overtimeHours": 0.0,
+        "hourlyRate": 10.0,
+        "regularPay": 48.5,
+        "overtimePay": 0.0,
+        "totalPay": 48.5,
+        "date": "2024-05-19",
+        "time": "14:30"
+      },
+      {
+        "name": "Benjamin Allin",
+        "id": 328,
+        "location": "Schertz/Cibolo/Selma/Garden Ridge",
+        "jobTitle": "Master Pizza Maker - Pizza Team/Dishes/Prep",
+        "regularHours": 4.85,
+        "overtimeHours": 0.0,
+        "hourlyRate": 10.0,
+        "regularPay": 48.5,
+        "overtimePay": 0.0,
+        "totalPay": 48.5,
+        "date": "2024-05-18",
+        "time": "14:30"
+      },
+      {
+        "name": "Benjamin Allin",
+        "id": 328,
+        "location": "Schertz/Cibolo/Selma/Garden Ridge",
+        "jobTitle": "Master Pizza Maker - Pizza Team/Dishes/Prep",
+        "regularHours": 4.85,
+        "overtimeHours": 0.0,
+        "hourlyRate": 10.0,
+        "regularPay": 48.5,
+        "overtimePay": 0.0,
+        "totalPay": 48.5,
+        "date": "2024-05-06",
+        "time": "14:30"
+      },
+      {
+        "name": "Benjamin Allin",
+        "id": 328,
+        "location": "Schertz/Cibolo/Selma/Garden Ridge",
+        "jobTitle": "Master Pizza Maker - Pizza Team/Dishes/Prep",
+        "regularHours": 4.85,
+        "overtimeHours": 0.0,
+        "hourlyRate": 10.0,
+        "regularPay": 48.5,
+        "overtimePay": 0.0,
+        "totalPay": 48.5,
+        "date": "2024-05-16",
+        "time": "14:30"
+      },
+      {
+        "name": "Benjamin Allin",
+        "id": 328,
+        "location": "Schertz/Cibolo/Selma/Garden Ridge",
+        "jobTitle": "Master Pizza Maker - Pizza Team/Dishes/Prep",
+        "regularHours": 4.85,
+        "overtimeHours": 0.0,
+        "hourlyRate": 10.0,
+        "regularPay": 48.5,
+        "overtimePay": 0.0,
+        "totalPay": 48.5,
+        "date": "2024-05-25",
+        "time": "14:30"
+      },
+      {
+        "name": "Ryan Allin",
+        "id": 329,
+        "location": "Schertz/Cibolo/Selma/Garden Ridge",
+        "jobTitle": "Master Pizza Maker - Pizza Team/Dishes/Prep",
+        "regularHours": 4.85,
+        "overtimeHours": 0.0,
+        "hourlyRate": 10.0,
+        "regularPay": 48.5,
+        "overtimePay": 0.0,
+        "totalPay": 48.5,
+        "date": "2024-05-15",
+        "time": "14:30"
+      }
+    ]
+  }
+  

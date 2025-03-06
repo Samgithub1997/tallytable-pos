@@ -1,0 +1,631 @@
+[
+  {
+    "id": "1",
+    "name": "Table 01",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "2",
+    "name": "Table 02",
+    "status": "Occupied",
+    "capacity": 2,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Jane Doe",
+      "phone": "5555555555",
+      "email": "jane@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "3",
+    "name": "Table 03",
+    "status": "Reserved",
+    "capacity": 6,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "John Doe",
+      "phone": "1234567890",
+      "email": "john@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "4",
+    "name": "Table 04",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "5",
+    "name": "Table 05",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Guest 5",
+      "phone": "0000000005",
+      "email": "guest5@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "6",
+    "name": "Table 06",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "Guest 6",
+      "phone": "0000000006",
+      "email": "guest6@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "7",
+    "name": "Table 07",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Location B",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "8",
+    "name": "Table 08",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Bar",
+    "reservedFor": {
+      "name": "Guest 8",
+      "phone": "0000000008",
+      "email": "guest8@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "9",
+    "name": "Table 09",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservedFor": {
+      "name": "Guest 9",
+      "phone": "0000000009",
+      "email": "guest9@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "10",
+    "name": "Table 10",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "11",
+    "name": "Table 11",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "Guest 11",
+      "phone": "0000000011",
+      "email": "guest11@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "12",
+    "name": "Table 12",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Location B",
+    "reservedFor": {
+      "name": "Guest 12",
+      "phone": "0000000012",
+      "email": "guest12@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "13",
+    "name": "Table 13",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Bar",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "14",
+    "name": "Table 14",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservedFor": {
+      "name": "Guest 14",
+      "phone": "0000000014",
+      "email": "guest14@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "15",
+    "name": "Table 15",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Guest 15",
+      "phone": "0000000015",
+      "email": "guest15@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "16",
+    "name": "Table 16",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Location A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "17",
+    "name": "Table 17",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Location B",
+    "reservedFor": {
+      "name": "Guest 17",
+      "phone": "0000000017",
+      "email": "guest17@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "18",
+    "name": "Table 18",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Bar",
+    "reservedFor": {
+      "name": "Guest 18",
+      "phone": "0000000018",
+      "email": "guest18@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "19",
+    "name": "Table 19",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "20",
+    "name": "Table 20",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Guest 20",
+      "phone": "0000000020",
+      "email": "guest20@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "21",
+    "name": "Table 21",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "Guest 21",
+      "phone": "0000000021",
+      "email": "guest21@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "22",
+    "name": "Table 22",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Location B",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "23",
+    "name": "Table 23",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Bar",
+    "reservedFor": {
+      "name": "Guest 23",
+      "phone": "0000000023",
+      "email": "guest23@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "24",
+    "name": "Table 24",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservedFor": {
+      "name": "Guest 24",
+      "phone": "0000000024",
+      "email": "guest24@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "25",
+    "name": "Table 25",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "26",
+    "name": "Table 26",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "Guest 26",
+      "phone": "0000000026",
+      "email": "guest26@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "27",
+    "name": "Table 27",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Location B",
+    "reservedFor": {
+      "name": "Guest 27",
+      "phone": "0000000027",
+      "email": "guest27@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "28",
+    "name": "Table 28",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Bar",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "29",
+    "name": "Table 29",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservedFor": {
+      "name": "Guest 29",
+      "phone": "0000000029",
+      "email": "guest29@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "30",
+    "name": "Table 30",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Guest 30",
+      "phone": "0000000030",
+      "email": "guest30@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "31",
+    "name": "Table 31",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Location A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "32",
+    "name": "Table 32",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Location B",
+    "reservedFor": {
+      "name": "Guest 32",
+      "phone": "0000000032",
+      "email": "guest32@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "33",
+    "name": "Table 33",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Bar",
+    "reservedFor": {
+      "name": "Guest 33",
+      "phone": "0000000033",
+      "email": "guest33@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "34",
+    "name": "Table 34",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "35",
+    "name": "Table 35",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Guest 35",
+      "phone": "0000000035",
+      "email": "guest35@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "36",
+    "name": "Table 36",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "Guest 36",
+      "phone": "0000000036",
+      "email": "guest36@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "37",
+    "name": "Table 37",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Location B",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "38",
+    "name": "Table 38",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Bar",
+    "reservedFor": {
+      "name": "Guest 38",
+      "phone": "0000000038",
+      "email": "guest38@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "39",
+    "name": "Table 39",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservedFor": {
+      "name": "Guest 39",
+      "phone": "0000000039",
+      "email": "guest39@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "40",
+    "name": "Table 40",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "41",
+    "name": "Table 41",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "Guest 41",
+      "phone": "0000000041",
+      "email": "guest41@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "42",
+    "name": "Table 42",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Location B",
+    "reservedFor": {
+      "name": "Guest 42",
+      "phone": "0000000042",
+      "email": "guest42@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "43",
+    "name": "Table 43",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Bar",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "44",
+    "name": "Table 44",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservedFor": {
+      "name": "Guest 44",
+      "phone": "0000000044",
+      "email": "guest44@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "45",
+    "name": "Table 45",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Guest 45",
+      "phone": "0000000045",
+      "email": "guest45@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "46",
+    "name": "Table 46",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Location A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "47",
+    "name": "Table 47",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Location B",
+    "reservedFor": {
+      "name": "Guest 47",
+      "phone": "0000000047",
+      "email": "guest47@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "48",
+    "name": "Table 48",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Bar",
+    "reservedFor": {
+      "name": "Guest 48",
+      "phone": "0000000048",
+      "email": "guest48@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  },
+  {
+    "id": "49",
+    "name": "Table 49",
+    "status": "Available",
+    "capacity": 4,
+    "location": "Patio A",
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "50",
+    "name": "Table 50",
+    "status": "Occupied",
+    "capacity": 4,
+    "location": "Patio B",
+    "reservedFor": {
+      "name": "Guest 50",
+      "phone": "0000000050",
+      "email": "guest50@example.com"
+    },
+    "reservationDateTime": "",
+    "waitTime": 0
+  },
+  {
+    "id": "51",
+    "name": "Table 51",
+    "status": "Reserved",
+    "capacity": 4,
+    "location": "Location A",
+    "reservedFor": {
+      "name": "Guest 51",
+      "phone": "0000000051",
+      "email": "guest51@example.com"
+    },
+    "reservationDateTime": "2025-02-01T19:00:00",
+    "waitTime": 2
+  }
+]
